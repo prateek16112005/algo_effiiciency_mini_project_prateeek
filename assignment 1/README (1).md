@@ -16,10 +16,6 @@ A hands-on analysis of common recursive and iterative algorithms with empirical 
 ## Setup
 Create and activate a virtual environment:
 
-```bash
-# macOS/Linux
-python -m venv venv && source venv/bin/activate
-
 # Windows (PowerShell)
 python -m venv venv; .\venv\Scripts\Activate.ps1
 ```
@@ -36,7 +32,7 @@ Launch Jupyter Notebook:
 jupyter notebook
 ```
 
-Then open `algo_analysis_notebook.ipynb`.
+Then open `assignment1.ipynb`.
 
 ## How to run
 In the notebook, **Run All** from top to bottom. This:
